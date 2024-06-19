@@ -84,7 +84,6 @@ r_Bit_Index <=r_Bit_Index + 1;
 r_SM_Main <= RX_DATA_BITS;
 end
 
-﻿
 
 else
 begin
